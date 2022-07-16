@@ -1,7 +1,1 @@
-# ეს არის პრიველი ჩელენჯის ჩემეული ამოხსნა[QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-
-- ამ კონკრეტული ჩელენჯისთვის გამოვიყენე Flexbox, card-ის გასაცენტრად.
-- შემდეგ ასევე flex კონტეინერი გავხადე თვითონ card და მიმართულება მივეცი column.
-- ასევე card-ს მივეცი padding-ები და ბექგრაუნდი გავათეთრე, ასევე დავუმატე ჩრდილები, როგორც დიზაინშია მოცემული.
-- იგივენაირად მოვიქეცი თვითონ სურათზე. მასაც padding-ები მივეცი და ბექგრაუნდი ღია ლურჯი გავხადე, დიზაინში მოცემული ფერით.
-- შემდეგ გავსტილე სათაური და ტექსტი და მივანიჭე დაშორებები ერთმანეთისგან. 
+[Github Pages](https://chkhikvadzeg.github.io/QR-CODE_COMPONENT)
